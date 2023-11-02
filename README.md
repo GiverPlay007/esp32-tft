@@ -1,2 +1,2 @@
-# esp32-tft
-:bulb: Brincando com ESP32
+## Sobre
+Aprendendo a usar a biblioteca TFT_eSPI com ESP32.
